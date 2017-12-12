@@ -1,2 +1,2 @@
 # DiagnosticTest
-DiagnosticTest
+DiagnosticTest for programming skills
